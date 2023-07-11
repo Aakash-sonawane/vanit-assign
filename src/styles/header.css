@@ -1,0 +1,14 @@
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.round{
+    height: 35px;
+    border-radius: 23px;
+    padding: 2px 40px;
+}
+.search{
+    width: 600px;
+}

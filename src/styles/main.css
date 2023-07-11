@@ -1,0 +1,10 @@
+.main-section{
+    display: flex;
+    gap: 10px;
+}
+.left-part{
+    width: 50vw;
+}
+.right-part{
+    width: 50vw;
+}
